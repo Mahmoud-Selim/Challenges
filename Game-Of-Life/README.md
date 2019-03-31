@@ -18,12 +18,11 @@ Currently, the configuration file stores:
 
 ### get started 
 
-1. clone the repository & cd in the labyrinth folder
+1. clone the repository & cd in the Challenges/Game-Of-Life directory
 
-`git clone https://github.com/Mahmoud-Selim/Challenges.git && cd Game-Of-Life`
+`git clone https://github.com/Mahmoud-Selim/Challenges.git && cd Challenges/Game-Of-Life`
 
-3. run the project and give the configuration file as an argument to the program. if you don't you will be asked 
-to provide the file name in the program.
+3. run the project and give the configuration file as an argument to the program.
 
 `python game_of_life.py [file_namme.json]`
 

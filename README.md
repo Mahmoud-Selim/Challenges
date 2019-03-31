@@ -1,6 +1,6 @@
 ## Challenges
 ---
-A repository that contains python a c++ challenges.
+A repository that contains python and c++ challenges.
 ---
 
 ### Implemented python challenges.

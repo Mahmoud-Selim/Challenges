@@ -7,9 +7,9 @@ elements.
 
 ### get started 
 
-1. clone the repository & cd in the labyrinth folder
+1. clone the repository & cd in the Challenges/labyrinth direcoty.
 
-`git clone https://github.com/Mahmoud-Selim/Challenges.git && cd Labyrinth`
+`git clone https://github.com/Mahmoud-Selim/Challenges.git && cd Challenges/Labyrinth`
 
 2. make a build directory and build the project
 
