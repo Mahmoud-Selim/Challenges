@@ -2,7 +2,7 @@
 # Dead cell comes alive only if 3 neighbor cells are alive
 # Live cell stays alive only if there are 2 or 3 live neighbor cells, else it dies
 # dynamic grid size
-#JdeRobot GSOC application.
+
 from tkinter import *
 from tkinter import font
 import time
